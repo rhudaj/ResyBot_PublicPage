@@ -6,9 +6,6 @@ This is the public version of the private repo titled "Job Tool" – to act as a
 
 It contains only the README of the original repo. If you wish to see the actual code, contact me. 
 
-
-## 
-
 ## Overview
 
 An automated restaurant reservation bot that books tables through the [Resy](https://resy.com) API the instant reservations open, then manages the lifecycle of those bookings — including scheduled cancellations and optional resale via [AppointmentTrader](https://appointmenttrader.com).
